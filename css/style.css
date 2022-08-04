@@ -1,0 +1,25 @@
+div{
+    background-color:gray;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+}
+
+input{
+    border-radius: 15px;
+    border: 2px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: #303134;
+}
+
+label{
+    color: goldenrod;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
